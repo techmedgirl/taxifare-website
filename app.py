@@ -10,7 +10,6 @@ import requests
 
 st.markdown('''
 # New York Taxi Fare
-## By Annabel C and forked from LeWagon
 ''')
 
 # '''
